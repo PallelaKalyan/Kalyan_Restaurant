@@ -2,26 +2,28 @@
 
 Welcome to the Restaurant Booking Website, a frontend web application built using React.js. This project allows users to browse and book tables at their favorite restaurants online. The application provides a seamless and intuitive user experience for managing restaurant reservations.
 
-## Table of Contents
 
-- [Features](#features)
-- [Demo](#demo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+## 📋 Table of Contents
 
-## Features
+- [✨ Features](#-features)
+- [🎥 Demo](#-demo)
+- [🔧 Installation](#-installation)
+- [📖 Usage](#-usage)
+- [💻 Technologies Used](#-technologies-used)
+- [🤝 Contributing](#-contributing)
+- [📜 License](#-license)
+- [📞 Contact](#-contact)
 
-- Browse a list of restaurants
-- View detailed information about  restaurant
-- Make reservations for a specific date and time
-- Responsive design for mobile and desktop users
-- User-friendly interface
 
-## Demo
+## ✨ Features
+
+- 📜 Browse a list of restaurants
+- 🕵️ View detailed information about each restaurant
+- 🗓️ Make reservations for a specific date and time
+- 📱 Responsive design for mobile and desktop users
+- 👍 User-friendly interface
+
+## 🎥 Demo
 
 A live demo of the project is available [here](https://pallelakalyan.github.io/Restaurant_Booking/). 
 
@@ -69,14 +71,14 @@ To run this project locally, follow these steps:
 
     After booking, you can view your reservations in the "My Bookings" section.
 
-## Technologies Used
+## 💻 Technologies Used
 
-- **React.js**: JavaScript library for building user interfaces
-- **React Router**: For routing and navigation
-- **Axios**: For making HTTP requests
-- **Bootstrap**: For responsive design and styling
-- **VSCODE**; For Development
-## Contributing
+- **⚛️ React.js**: JavaScript library for building user interfaces
+- **🌐 React Router**: For routing and navigation
+- **📡 Axios**: For making HTTP requests
+- **🎨 Bootstrap**: For responsive design and styling
+
+## 🤝 Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or issues, feel free to create an issue or submit a pull request.
 
@@ -104,11 +106,11 @@ To contribute:
 
 6. **Open a pull request**
 
-## License
+## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
+## 📞 Contact
 
 If you have any questions or feedback, please feel free to contact me.
 
