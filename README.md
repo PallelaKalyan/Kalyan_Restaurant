@@ -23,7 +23,7 @@ Welcome to the Restaurant Booking Website, a frontend web application built usin
 
 ## Demo
 
-A live demo of the project is available [here](#). (Replace the link with your live demo URL)
+A live demo of the project is available [here](https://pallelakalyan.github.io/Restaurant_Booking/). 
 
 ## Installation
 
@@ -32,7 +32,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/PallelaKalyan/Restaurant_booking.git
+    git clone https://github.com/PallelaKalyan/Restaurant_Booking.git
     ```
 
 2. **Navigate to the project directory:**
